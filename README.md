@@ -1,50 +1,48 @@
+# Zerodha Landing Page Clone
+
 This is a responsive clone of the Zerodha landing page, built with HTML and CSS. Zerodha is a popular online brokerage platform in India.
 
-Features
-Responsive navigation bar with logo and menu items
+## Features
+- Responsive navigation bar with logo and menu items
+- Hero section with main image and call-to-action button
+- Key features section with trust indicators
+- Pricing information section
+- Educational resources section
+- Footer with company and support links
 
-Hero section with main image and call-to-action button
+## Technologies Used
+- HTML5
+- CSS3
+- Google Fonts (Inter)
 
-Key features section with trust indicators
+## File Structure
+```
+📦 zerodha-landing-page-clone
+├── 📄 index.html  # Main HTML file
+├── 📄 index.css   # Stylesheet
+├── 📄 logo.svg    # Zerodha logo
+└── 📄 other-trades.svg  # Pricing icon
+```
 
-Pricing information section
+## How to Use
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/yourusername/zerodha-landing-page-clone.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd zerodha-landing-page-clone
+   ```
+3. Open `index.html` in your browser.
 
-Educational resources section
-
-Footer with company and support links
-
-Technologies Used
-HTML5
-
-CSS3
-
-Google Fonts (Inter)
-
-File Structure
-index.html - Main HTML file
-
-index.css - Stylesheet
-
-logo.svg - Zerodha logo
-
-other-trades.svg - Pricing icon
-
-How to Use
-Clone this repository
-
-Open index.html in your browser
-
-Customization
+## Customization
 You can easily customize this project by:
+- Changing colors in the CSS file
+- Updating the content in the HTML file
+- Adding more sections as needed
 
-Changing colors in the CSS file
+## Credits
+This project was created as a learning exercise and is based on the original Zerodha website [Zerodha](https://zerodha.com).
 
-Updating the content in the HTML file
-
-Adding more sections as needed
-
-Credits
-This project was created as a learning exercise and is based on the original Zerodha website (https://zerodha.com).
-
-License
+## License
 This project is open-source and available for educational purposes.
