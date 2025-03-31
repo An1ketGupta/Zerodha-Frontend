@@ -27,7 +27,7 @@ This is a responsive clone of the Zerodha landing page, built with HTML and CSS.
 ## How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/zerodha-landing-page-clone.git
+   git clone https://github.com/An1ketGupta/zerodha-landing-page-clone.git
    ```
 2. Navigate to the project directory:
    ```sh
