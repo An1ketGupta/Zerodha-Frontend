@@ -36,6 +36,10 @@ nav{
     text-decoration: none;
 }
 
+.nav-list:hover{
+    color: #387Ed1;
+}
+
 .image-main{
     display: flex;
     justify-content: center;
@@ -186,12 +190,24 @@ footer{
     background-color: #FBFBFB;    
     display: flex;
     justify-content: center;
-    gap: 50px;
+    gap: 70px;
     font-family: "Inter", "Times New Roman", Times, serif;
+    padding-left: 160px;
+    padding-right: 200px;
 }
 
 .list-head{
-    color: black;
+    color:#424242;
     font-size: 1.125rem;
     font-weight: 500;
+}
+
+.list{
+    vertical-align:auto
+}
+
+ul li{
+    margin-bottom: 20px;
+    color: #666666;
+    font-size: 14px;
 }
